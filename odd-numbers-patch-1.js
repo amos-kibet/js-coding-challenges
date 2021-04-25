@@ -4,7 +4,7 @@ Coding challenge #2: Print the odd numbers less than 100
  */
 
 let oddNumbersGenerator = () => {
-    for(var i = 1; i <= 100000; i += 2) {
+    for(var i = 1; i <= 100; i += 2) {
         console.log(i);
     }
 };
