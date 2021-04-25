@@ -3,7 +3,7 @@ Hackernoon's coding challenges for beginners
 Coding challenge #2: Print the odd numbers less than 100
  */
 let oddNumbersGenerator = () => {
-    for (var i = 0; i < 100000; i++) {
+    for (var i = 0; i < 100; i++) {
         if (i % 2 === 1) {
             console.log(i);
         }
