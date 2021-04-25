@@ -1,5 +1,5 @@
 /*
-Hackernoon coding challenges for beginners
+Hackernoon's coding challenges for beginners
 Coding challenge #1: Print numbers from 1 to 10
  */
 for (var i = 1; i<= 10; i++) {
